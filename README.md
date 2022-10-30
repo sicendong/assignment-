@@ -3,6 +3,8 @@ The project uses uniapp+vue2 to implement the APP page
 When running the project, you need to download the uniapp editor HBuilderX
 Download address: dcloud.io/hbuilderx.html
 
+Because the implementation of the map module is based on nvue, the map can only be previewed on the mobile phone, and other pages can also be previewed in the browser
+
 Use HBuilderX to open the project, click to run to the mobile phone or simulator, the mobile phone and the computer need to be connected with a data cable
 
 • Android platform
